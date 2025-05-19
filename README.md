@@ -10,8 +10,7 @@ Key Features:
 
 Tech Stack:
 
-    Frontend: Vanilla JS, HTML5, CSS3
+Frontend: Vanilla JS, HTML5, CSS3
 
-    Data: RESTful Pokémon API
+Data: RESTful Pokémon API
 
-(Ideal for GitHub—concise, keyword-rich, and highlights technical value.)
